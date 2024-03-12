@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsnyder82
+- 👋 Hi, I’m Jayna
 - 👀 I’m interested in data science in the retail industry
 - 🌱 I’m currently studying statistics and data science at SDSU
 - 😄 Pronouns: she/her
