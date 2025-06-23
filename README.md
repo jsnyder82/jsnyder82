@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jayna
-- 👀 I’m interested in data science in the retail industry
+- 👀 I’m interested in data science 
 - 🌱 I’m currently studying statistics and data science at SDSU
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to crochet and am learning how to surf!
