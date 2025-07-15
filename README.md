@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jayna
-- 👀 I’m interested in biostatistics and data science for public health
+- 👀 I’m interested in data science for public health, and creating awesome, storytelling, data visualizations
 - 🌱 I’m currently studying statistics and data science at SDSU
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to crochet and am learning how to surf!
